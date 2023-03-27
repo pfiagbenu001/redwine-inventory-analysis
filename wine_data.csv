@@ -1,0 +1,11 @@
+producer,vintage,region,varietal,inventory,sales,price_per_bottle,production_cost_per_bottle
+WineCo Ghana,2016,Greater Accra,Cabernet Sauvignon,100,50,10,5
+Ghana Vineyards,2017,Ashanti,Merlot,150,100,12,6
+Cape Coast Wines,2018,Central,Syrah,75,25,8,4
+Ghana Wine Company,2019,Eastern,Pinot Noir,200,150,15,7
+Accra Winery,2020,Greater Accra,Cabernet Franc,300,225,20,8
+Volta Wines,2020,Volta,Malbec,250,200,18,7
+Tamale Vineyards,2018,Northern,Chardonnay,100,75,10,5
+Cape Coast Wines,2017,Central,Pinot Noir,50,25,14,7
+Ghana Wine Company,2019,Eastern,Merlot,175,100,12,6
+Volta Wines,2020,Volta,Shiraz,200,150,16,8
